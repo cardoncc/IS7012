@@ -1,0 +1,19 @@
+﻿@page
+@model Dice_Roller.Pages.DiceRollModel
+@{
+    int randomNumber = new Random().Next(1, 7); //GENERATES NUMBER BETWEEN 1 and 6
+    int winningNumber = new Random().Next(1, 7); //GENERATES NUMBER BETWEEN 1 and 6
+    int diff = Math.Abs(randomNumber - winningNumber);
+}
+
+<h3 class="text-center">You rolled a: @randomNumber</h3>
+<h3 class="text-center">The winning number was: @winningNumber</h3>
+
+@if (diff == 0)
+{
+    <h4 class="alert alert-success text-center">You won!</h4>
+}
+else
+{
+    <h4 class="alert alert-danger text-center">You lost by: @diff</h4>
+}
