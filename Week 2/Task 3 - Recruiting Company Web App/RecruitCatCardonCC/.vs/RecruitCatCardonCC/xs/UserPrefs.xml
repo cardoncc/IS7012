@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1524789A-B3FD-4861-9D7D-4DA4CEAB87B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.RecruitCatCardonCC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecruitCatCardonCC/Pages/Our_Team.cshtml">
+    <Files>
+      <File FileName="RecruitCatCardonCC/Pages/Our_Team.cshtml" Line="6" Column="24" />
+      <File FileName="RecruitCatCardonCC/Pages/Shared/_Layout.cshtml" />
+      <File FileName="RecruitCatCardonCC/Pages/Index.cshtml" />
+      <File FileName="RecruitCatCardonCC/wwwroot/css/site.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecruitCatCardonCC" expanded="True">
+            <Node name="RecruitCatCardonCC" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Our_Team.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
