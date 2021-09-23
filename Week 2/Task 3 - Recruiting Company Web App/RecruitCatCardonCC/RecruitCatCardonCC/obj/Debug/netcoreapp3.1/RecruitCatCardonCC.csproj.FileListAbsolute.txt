@@ -1,0 +1,7 @@
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.csproj.AssemblyReference.cache
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.AssemblyInfoInputs.cache
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.AssemblyInfo.cs
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.csproj.CoreCompileInputs.cache
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.MvcApplicationPartsAssemblyInfo.cs
+/Users/chriscardone/Desktop/IS7012/Week 2/Task 3 - Recruiting Company Web App/RecruitCatCardonCC/RecruitCatCardonCC/obj/Debug/netcoreapp3.1/RecruitCatCardonCC.MvcApplicationPartsAssemblyInfo.cache

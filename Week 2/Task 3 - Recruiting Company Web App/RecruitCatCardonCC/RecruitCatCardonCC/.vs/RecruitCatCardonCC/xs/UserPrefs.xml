@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AC2F8461-CE99-4F66-B123-7FCF4D0DA97C}|Default">
+  <MonoDevelop.Ide.ItemProperties.RecruitCatCardonCC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecruitCatCardonCC" expanded="True">
+            <Node name="RecruitCatCardonCC" expanded="True">
+              <Node name="Models" selected="True" />
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
