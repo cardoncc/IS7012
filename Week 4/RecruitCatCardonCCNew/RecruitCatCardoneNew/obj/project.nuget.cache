@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLlGbm5/ajWLLonb6VbbR/4yluuZbGiBkuIfIMfhV5dzY6eD7ahrQqHk4nz5RqICuLo6Xpi8sSrSenmTsOnOoA==",
+  "dgSpecHash": "kF1y3YpkxzEcrAEwooYFvPz/6UsufJ5geA0iLRP27wy5oBHolGMCYyvtPDcx7XaYBDEzTmElplMKsi8NjhRnTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
+  "projectFilePath": "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Charles Cardone\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Charles Cardone\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.19\\microsoft.aspnetcore.mvc.razor.extensions.3.1.19.nupkg.sha512",

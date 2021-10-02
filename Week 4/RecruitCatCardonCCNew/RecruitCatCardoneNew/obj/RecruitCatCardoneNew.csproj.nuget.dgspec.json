@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj": {}
+    "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj": {
+    "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
+        "projectUniqueName": "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
         "projectName": "RecruitCatCardoneNew",
-        "projectPath": "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
+        "projectPath": "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\RecruitCatCardoneNew.csproj",
         "packagesPath": "C:\\Users\\Charles Cardone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charles Cardone\\Desktop\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\obj\\",
+        "outputPath": "C:\\Users\\Charles Cardone\\Desktop\\IS7012\\Week 4\\RecruitCatCardonCCNew\\RecruitCatCardoneNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
